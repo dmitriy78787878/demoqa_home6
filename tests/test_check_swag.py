@@ -25,7 +25,7 @@ def test_check_swag(browser):
 #     else:
 #         print('Элемент найден')
 
-    #
+
     demo_qa_page = SwagLabs(browser)
     demo_qa_page.visit()
     time.sleep(3)
